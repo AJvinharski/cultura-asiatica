@@ -1,7 +1,8 @@
-body {
+.cabeçalho {
     background-color: aliceblue;
+    display: flex;
 }
 
-img.cabeçalho-image{
-
+.cabeçalho-image{
+ width: 50%;
 }
