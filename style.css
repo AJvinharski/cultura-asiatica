@@ -7,7 +7,7 @@
     background-color: aliceblue;
     display: flex;
     justify-content: space-around;
-    padding: 24px;
+    padding: 20px;
 }
 
 .cabeçalho-image{
@@ -16,4 +16,13 @@
 }
 .cabeçalho-lista-item{
     font-size: 50px;
+}
+.muralha-image{
+
+    font-size: 50 px;
+}
+.TajMahal.image{
+
+    font-size: 50 px;
+
 }
